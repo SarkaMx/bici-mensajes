@@ -1,0 +1,22 @@
+{
+  "name": "bicim",
+  "version": "0.0.0",
+  "authors": [
+    "Cesar Landeros Delgado <chichozell@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ui-router": "~0.2.13",
+    "leaflet-routing-machine": "~2.2.3",
+    "angular-leaflet-directive": "~0.7.11"
+  }
+}
