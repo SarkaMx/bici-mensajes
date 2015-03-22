@@ -1,1 +1,1 @@
-web: source/
+web:
